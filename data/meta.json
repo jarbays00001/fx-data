@@ -1,245 +1,245 @@
 {
- "generated_utc": "2026-11-18 19:02",
+ "generated_utc": "2026-11-18 20:02",
  "note": "Semua waktu UTC. Hanya candle close. Pasar tutup Jumat 22:00 UTC (musim dingin AS).",
  "instruments": {
   "EURUSD": {
    "status": "OK",
    "source": "EURUSD=X",
-   "h1": 1056,
+   "h1": 1057,
    "h4": 269,
-   "last_h1_start": "2026-11-18 18:00",
+   "last_h1_start": "2026-11-18 19:00",
    "last_h4_start": "2026-11-18 14:00"
   },
   "GBPUSD": {
    "status": "OK",
    "source": "GBPUSD=X",
-   "h1": 1056,
+   "h1": 1057,
    "h4": 269,
-   "last_h1_start": "2026-11-18 18:00",
+   "last_h1_start": "2026-11-18 19:00",
    "last_h4_start": "2026-11-18 14:00"
   },
   "AUDUSD": {
    "status": "OK",
    "source": "AUDUSD=X",
-   "h1": 1056,
+   "h1": 1057,
    "h4": 269,
-   "last_h1_start": "2026-11-18 18:00",
+   "last_h1_start": "2026-11-18 19:00",
    "last_h4_start": "2026-11-18 14:00"
   },
   "NZDUSD": {
    "status": "OK",
    "source": "NZDUSD=X",
-   "h1": 1056,
+   "h1": 1057,
    "h4": 269,
-   "last_h1_start": "2026-11-18 18:00",
+   "last_h1_start": "2026-11-18 19:00",
    "last_h4_start": "2026-11-18 14:00"
   },
   "USDJPY": {
    "status": "OK",
    "source": "USDJPY=X",
-   "h1": 1056,
+   "h1": 1057,
    "h4": 269,
-   "last_h1_start": "2026-11-18 18:00",
+   "last_h1_start": "2026-11-18 19:00",
    "last_h4_start": "2026-11-18 14:00"
   },
   "USDCAD": {
    "status": "OK",
    "source": "USDCAD=X",
-   "h1": 1056,
+   "h1": 1057,
    "h4": 269,
-   "last_h1_start": "2026-11-18 18:00",
+   "last_h1_start": "2026-11-18 19:00",
    "last_h4_start": "2026-11-18 14:00"
   },
   "USDCHF": {
    "status": "OK",
    "source": "USDCHF=X",
-   "h1": 1056,
+   "h1": 1057,
    "h4": 269,
-   "last_h1_start": "2026-11-18 18:00",
+   "last_h1_start": "2026-11-18 19:00",
    "last_h4_start": "2026-11-18 14:00"
   },
   "EURGBP": {
    "status": "OK",
    "source": "EURGBP=X",
-   "h1": 1056,
+   "h1": 1057,
    "h4": 269,
-   "last_h1_start": "2026-11-18 18:00",
+   "last_h1_start": "2026-11-18 19:00",
    "last_h4_start": "2026-11-18 14:00"
   },
   "EURJPY": {
    "status": "OK",
    "source": "EURJPY=X",
-   "h1": 1056,
+   "h1": 1057,
    "h4": 269,
-   "last_h1_start": "2026-11-18 18:00",
+   "last_h1_start": "2026-11-18 19:00",
    "last_h4_start": "2026-11-18 14:00"
   },
   "EURAUD": {
    "status": "OK",
    "source": "EURAUD=X",
-   "h1": 1056,
+   "h1": 1057,
    "h4": 269,
-   "last_h1_start": "2026-11-18 18:00",
+   "last_h1_start": "2026-11-18 19:00",
    "last_h4_start": "2026-11-18 14:00"
   },
   "EURNZD": {
    "status": "OK",
    "source": "EURNZD=X",
-   "h1": 1056,
+   "h1": 1057,
    "h4": 269,
-   "last_h1_start": "2026-11-18 18:00",
+   "last_h1_start": "2026-11-18 19:00",
    "last_h4_start": "2026-11-18 14:00"
   },
   "EURCAD": {
    "status": "OK",
    "source": "EURCAD=X",
-   "h1": 1056,
+   "h1": 1057,
    "h4": 269,
-   "last_h1_start": "2026-11-18 18:00",
+   "last_h1_start": "2026-11-18 19:00",
    "last_h4_start": "2026-11-18 14:00"
   },
   "EURCHF": {
    "status": "OK",
    "source": "EURCHF=X",
-   "h1": 1056,
+   "h1": 1057,
    "h4": 269,
-   "last_h1_start": "2026-11-18 18:00",
+   "last_h1_start": "2026-11-18 19:00",
    "last_h4_start": "2026-11-18 14:00"
   },
   "GBPJPY": {
    "status": "OK",
    "source": "GBPJPY=X",
-   "h1": 1056,
+   "h1": 1057,
    "h4": 269,
-   "last_h1_start": "2026-11-18 18:00",
+   "last_h1_start": "2026-11-18 19:00",
    "last_h4_start": "2026-11-18 14:00"
   },
   "GBPAUD": {
    "status": "OK",
    "source": "GBPAUD=X",
-   "h1": 1056,
+   "h1": 1057,
    "h4": 269,
-   "last_h1_start": "2026-11-18 18:00",
+   "last_h1_start": "2026-11-18 19:00",
    "last_h4_start": "2026-11-18 14:00"
   },
   "GBPNZD": {
    "status": "OK",
    "source": "GBPNZD=X",
-   "h1": 1056,
+   "h1": 1057,
    "h4": 269,
-   "last_h1_start": "2026-11-18 18:00",
+   "last_h1_start": "2026-11-18 19:00",
    "last_h4_start": "2026-11-18 14:00"
   },
   "GBPCAD": {
    "status": "OK",
    "source": "GBPCAD=X",
-   "h1": 1056,
+   "h1": 1057,
    "h4": 269,
-   "last_h1_start": "2026-11-18 18:00",
+   "last_h1_start": "2026-11-18 19:00",
    "last_h4_start": "2026-11-18 14:00"
   },
   "GBPCHF": {
    "status": "OK",
    "source": "GBPCHF=X",
-   "h1": 1056,
+   "h1": 1057,
    "h4": 269,
-   "last_h1_start": "2026-11-18 18:00",
+   "last_h1_start": "2026-11-18 19:00",
    "last_h4_start": "2026-11-18 14:00"
   },
   "AUDJPY": {
    "status": "OK",
    "source": "AUDJPY=X",
-   "h1": 1056,
+   "h1": 1057,
    "h4": 269,
-   "last_h1_start": "2026-11-18 18:00",
+   "last_h1_start": "2026-11-18 19:00",
    "last_h4_start": "2026-11-18 14:00"
   },
   "AUDNZD": {
    "status": "OK",
    "source": "AUDNZD=X",
-   "h1": 1056,
+   "h1": 1057,
    "h4": 269,
-   "last_h1_start": "2026-11-18 18:00",
+   "last_h1_start": "2026-11-18 19:00",
    "last_h4_start": "2026-11-18 14:00"
   },
   "AUDCAD": {
    "status": "OK",
    "source": "AUDCAD=X",
-   "h1": 1056,
+   "h1": 1057,
    "h4": 269,
-   "last_h1_start": "2026-11-18 18:00",
+   "last_h1_start": "2026-11-18 19:00",
    "last_h4_start": "2026-11-18 14:00"
   },
   "AUDCHF": {
    "status": "OK",
    "source": "AUDCHF=X",
-   "h1": 1056,
+   "h1": 1057,
    "h4": 269,
-   "last_h1_start": "2026-11-18 18:00",
+   "last_h1_start": "2026-11-18 19:00",
    "last_h4_start": "2026-11-18 14:00"
   },
   "NZDJPY": {
    "status": "OK",
    "source": "NZDJPY=X",
-   "h1": 1056,
+   "h1": 1057,
    "h4": 269,
-   "last_h1_start": "2026-11-18 18:00",
+   "last_h1_start": "2026-11-18 19:00",
    "last_h4_start": "2026-11-18 14:00"
   },
   "NZDCAD": {
    "status": "OK",
    "source": "NZDCAD=X",
-   "h1": 1056,
+   "h1": 1057,
    "h4": 269,
-   "last_h1_start": "2026-11-18 18:00",
+   "last_h1_start": "2026-11-18 19:00",
    "last_h4_start": "2026-11-18 14:00"
   },
   "NZDCHF": {
    "status": "OK",
    "source": "NZDCHF=X",
-   "h1": 1056,
+   "h1": 1057,
    "h4": 269,
-   "last_h1_start": "2026-11-18 18:00",
+   "last_h1_start": "2026-11-18 19:00",
    "last_h4_start": "2026-11-18 14:00"
   },
   "CADJPY": {
    "status": "OK",
    "source": "CADJPY=X",
-   "h1": 1056,
+   "h1": 1057,
    "h4": 269,
-   "last_h1_start": "2026-11-18 18:00",
+   "last_h1_start": "2026-11-18 19:00",
    "last_h4_start": "2026-11-18 14:00"
   },
   "CADCHF": {
    "status": "OK",
    "source": "CADCHF=X",
-   "h1": 1056,
+   "h1": 1057,
    "h4": 269,
-   "last_h1_start": "2026-11-18 18:00",
+   "last_h1_start": "2026-11-18 19:00",
    "last_h4_start": "2026-11-18 14:00"
   },
   "CHFJPY": {
    "status": "OK",
    "source": "CHFJPY=X",
-   "h1": 1056,
+   "h1": 1057,
    "h4": 269,
-   "last_h1_start": "2026-11-18 18:00",
+   "last_h1_start": "2026-11-18 19:00",
    "last_h4_start": "2026-11-18 14:00"
   },
   "XAUUSD": {
    "status": "OK",
    "source": "GC=F",
-   "h1": 865,
+   "h1": 866,
    "h4": 226,
-   "last_h1_start": "2026-11-18 18:00",
+   "last_h1_start": "2026-11-18 19:00",
    "last_h4_start": "2026-11-18 14:00"
   },
   "XAGUSD": {
    "status": "OK",
    "source": "SI=F",
-   "h1": 865,
+   "h1": 866,
    "h4": 226,
-   "last_h1_start": "2026-11-18 18:00",
+   "last_h1_start": "2026-11-18 19:00",
    "last_h4_start": "2026-11-18 14:00"
   }
  }
