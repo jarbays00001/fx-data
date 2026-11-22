@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-11-22 04:02",
+ "generated_utc": "2026-11-22 05:02",
  "note": "Semua waktu UTC. Hanya candle close. Pasar tutup Jumat 22:00 UTC (musim dingin AS).",
  "instruments": {
   "EURUSD": {
@@ -229,16 +229,16 @@
   "XAUUSD": {
    "status": "OK",
    "source": "GC=F",
-   "h1": 868,
-   "h4": 227,
+   "h1": 845,
+   "h4": 221,
    "last_h1_start": "2026-11-20 21:00",
    "last_h4_start": "2026-11-20 18:00"
   },
   "XAGUSD": {
    "status": "OK",
    "source": "SI=F",
-   "h1": 868,
-   "h4": 227,
+   "h1": 845,
+   "h4": 221,
    "last_h1_start": "2026-11-20 21:00",
    "last_h4_start": "2026-11-20 18:00"
   }
